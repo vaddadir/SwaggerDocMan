@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SwaggerDocManager": {
+      "commandName": "Project",
+      "commandLineArgs": "desc --project C:\\projects.net\\FIP\\avocado-nexus-api\\src\\AvocadoNexusApi\\AvocadoNexusApi.csproj --assembly C:\\My\\Workspace\\AvocadoNexusApiBin\\AvocadoNexusApi.dll --dry false --using \"System.ComponentModel\" \"AvocadoNexusApi.Core.Constants\" --type Business.Models.CredentialRequest --descriptions-document Descriptions.Connections.cs"
+    }
+  }
+}
